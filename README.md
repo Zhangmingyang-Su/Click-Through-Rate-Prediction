@@ -17,7 +17,14 @@ In this section, I use Spakr SQL to write some queries to get some initial view 
 ## 2. Feature Engineering
 2.1 Before I move further to deploy machine learning models, I need to set bins to split continuous variables into categorical variables in order to improve model performance. After checking the data schema, I find out that all of the feature variables are string type, so I can use stringindexer and VectorAssembler API to map the string type variables into vector type.  
 
-2.2 For Deep Learning Model, I implement MinMaxScaler and OneHotEncoding API to process raw data, and them set all of the processed data as embedding feature for studying low and high dimension features interaction.
+2.2 For Deep Learning Model, I implement MinMaxScaler and OneHotEncoding API to process raw data, and them set all of the processed data as embedding feature for studying low and high dimension features interaction.  
+
+## 3. Model Selection
+3.1 Machine Learning Model -> Logistic Regression + Gradient Boosted Tree Classfier.  
+
+Architecture:
+
+
 
 
 
