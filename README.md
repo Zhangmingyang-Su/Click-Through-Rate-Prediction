@@ -1,7 +1,5 @@
 # Ads Click Through Rate Prediction for Streaming Data In Apache Spark
 
-what is the CTR?  
-CTR = (click) / (impression)
 
 ## Project Summary
 In this project, I just handle the cold start issue without users' historical data and demography. I mainly focus on using context feature to predict the probablity of a user who will click the Ads or not. Moreover, I also bring streaming mechanism to illustrate how to simulate streaming data to monitor model performance and CTR changes in real-time.
@@ -24,11 +22,11 @@ In this section, I use Spakr SQL to write some queries to get some initial view 
 
 Architecture:  
 
-<img src="https://miro.medium.com/max/1400/1*jC5T3FeI_X8Zwa-rbf8cfg.png" width="800">
+<img src="https://miro.medium.com/max/1400/1*jC5T3FeI_X8Zwa-rbf8cfg.png" width="500">
 
-<img src="https://miro.medium.com/max/1400/1*ivIuVXL7JpnJx83DqWI9GQ.png" width="800">
+<img src="https://miro.medium.com/max/1400/1*ivIuVXL7JpnJx83DqWI9GQ.png" width="500">
 
-<img src="https://miro.medium.com/max/1400/1*XzLBOdDH0ypuY0Ez8p9nKA.png" width="800">
+<img src="https://miro.medium.com/max/1400/1*XzLBOdDH0ypuY0Ez8p9nKA.png" width="500">
 
 
 
@@ -38,4 +36,4 @@ Architecture:
 
 Architecture:  
 
-<img src="https://raw.githubusercontent.com/shenweichen/DeepCTR/master/docs/pics/DeepFM.png" width="800">
+<img src="https://raw.githubusercontent.com/shenweichen/DeepCTR/master/docs/pics/DeepFM.png" width="600">
