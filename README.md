@@ -1,7 +1,7 @@
-# Ads Click Through Rate Prediction for Streaming Data In Apache Spark
+# Ads Click Through Rate Prediction for Structured Streaming Data In Apache Spark
 
 
-## Project Summary
+# Project Summary
 In this project, I just handle the cold start issue without users' historical data and demography. I mainly focus on using context feature to predict the probablity of a user who will click the Ads or not. Moreover, I also bring streaming mechanism to illustrate how to simulate streaming data to monitor model performance and CTR changes in real-time.
 
 ## 0. Data Pipeline  
