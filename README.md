@@ -20,7 +20,7 @@ In this section, I use Spakr SQL to write some queries to get some initial view 
 2.2 For Deep Learning Model, I implement MinMaxScaler and OneHotEncoding API to process raw data, and them set all of the processed data as embedding feature for studying low and high dimension features interaction.  
 
 ## 3. Model Selection
-3.1 Machine Learning Model -> Logistic Regression + Gradient Boosted Tree Classfier.  
+### 3.1 Machine Learning Model -> Logistic Regression + Gradient Boosted Tree Classfier.  
 
 Architecture:  
 
@@ -33,7 +33,7 @@ Architecture:
 
 
 
-3.2 Deep Learning Model -> DeepFM -> Factorization Machine + Deep Neural Network.  
+### 3.2 Deep Learning Model -> DeepFM -> Factorization Machine + Deep Neural Network.  
 
 
 Architecture:  
