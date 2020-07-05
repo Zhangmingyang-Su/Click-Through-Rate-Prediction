@@ -37,3 +37,8 @@ Architecture:
 Architecture:  
 
 <img src="https://raw.githubusercontent.com/shenweichen/DeepCTR/master/docs/pics/DeepFM.png" width="600">
+
+
+## 4. Structured Streaming and Evaluation.  
+
+
