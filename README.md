@@ -41,4 +41,6 @@ Architecture:
 
 ## 4. Structured Streaming and Evaluation.  
 
+![](My%20Folder/streaming%201.png)
+
 
