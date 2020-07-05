@@ -22,9 +22,20 @@ In this section, I use Spakr SQL to write some queries to get some initial view 
 ## 3. Model Selection
 3.1 Machine Learning Model -> Logistic Regression + Gradient Boosted Tree Classfier.  
 
-Architecture:
+Architecture:  
+
+<img src="https://miro.medium.com/max/1400/1*jC5T3FeI_X8Zwa-rbf8cfg.png" width="800">
+
+<img src="https://miro.medium.com/max/1400/1*ivIuVXL7JpnJx83DqWI9GQ.png" width="800">
+
+<img src="https://miro.medium.com/max/1400/1*XzLBOdDH0ypuY0Ez8p9nKA.png" width="800">
 
 
 
 
+3.2 Deep Learning Model -> DeepFM -> Factorization Machine + Deep Neural Network.  
 
+
+Architecture:  
+
+<img src="https://raw.githubusercontent.com/shenweichen/DeepCTR/master/docs/pics/DeepFM.png" width="800">
