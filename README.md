@@ -46,6 +46,6 @@ Architecture:
 ![](My%20Folder/streaming%202.png)
 
 ![](My%20Folder/streaming%203.png)
-              ||
+when more real-time data imported into model, the model performance increase
               
-![](My%20Folder/streaming%204.png)
+
