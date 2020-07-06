@@ -47,6 +47,6 @@ Architecture:
 
 ![](My%20Folder/streaming%203.png)
 
-![](My%20Folder/streaming%204.png)
+![](My%20Folder/streaming%205.png)
               
 
