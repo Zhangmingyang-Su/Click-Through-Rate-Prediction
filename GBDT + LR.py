@@ -21,7 +21,7 @@ spark = SparkSession \
     .getOrCreate()
 #spark.sparkContext.setLogLevel("ERROR")
 
-data = spark.read.options(delimiter='\t', header=True, nrow=100).csv(r"round1_iflyad_anticheat_traindata.txt").select('label', 'os', 'osv', 'ppi')
+data = spark.read.options(delimiter='\t', header=True, nrow=100).csv(r"traindata.txt").select('label', 'os', 'osv', 'ppi')
 data.show()
 (trainingData, testData) = data.randomSplit([0.7,0.3], seed=777)
 
